@@ -303,3 +303,4 @@ Processamento local no Windows
 OCI Object Storage 
 
 Landing · Bronze · Silver · Gold 
+

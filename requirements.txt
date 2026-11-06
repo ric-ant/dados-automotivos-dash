@@ -1,0 +1,6 @@
+requests==2.31.0
+pyspark==4.0.1
+delta-spark==4.4.1
+streamlit==1.30.0
+pandas==2.2.0
+pytest==7.4.4
